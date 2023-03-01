@@ -1,0 +1,470 @@
+[29-Jul-2022 23:58:01 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[29-Jul-2022 23:58:01 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[29-Jul-2022 23:58:01 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[29-Jul-2022 23:58:01 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[29-Jul-2022 23:58:01 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[29-Jul-2022 23:58:01 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[29-Jul-2022 23:58:01 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Undefined array key "id" in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 6
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 46
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 50
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 65
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 90
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[30-Jul-2022 00:00:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Undefined array key "id" in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 6
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 46
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 50
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 65
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 90
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[30-Jul-2022 00:00:54 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[31-Jul-2022 02:13:12 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/users_list.php on line 3
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Undefined array key "id" in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 6
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 46
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 50
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 65
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 90
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[31-Jul-2022 02:21:30 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[31-Jul-2022 02:28:04 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[31-Jul-2022 02:28:04 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[31-Jul-2022 02:28:04 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[31-Jul-2022 02:28:04 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[31-Jul-2022 02:28:04 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[31-Jul-2022 02:28:04 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[31-Jul-2022 02:28:04 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[31-Jul-2022 02:28:04 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/profile.php on line 3
+[31-Jul-2022 02:28:05 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/users_list.php on line 3
+[01-Aug-2022 15:49:33 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[01-Aug-2022 15:49:33 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[01-Aug-2022 15:49:33 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[01-Aug-2022 15:49:33 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[01-Aug-2022 15:49:39 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[01-Aug-2022 15:49:39 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[01-Aug-2022 15:49:39 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[01-Aug-2022 15:49:39 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[01-Aug-2022 16:08:49 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[01-Aug-2022 16:08:49 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[01-Aug-2022 16:08:49 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[01-Aug-2022 16:08:49 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[01-Aug-2022 18:21:22 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[01-Aug-2022 18:21:22 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[01-Aug-2022 18:21:22 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[01-Aug-2022 18:21:22 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[01-Aug-2022 18:21:22 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[01-Aug-2022 18:21:22 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[01-Aug-2022 18:21:22 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[01-Aug-2022 18:24:07 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[01-Aug-2022 18:24:07 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[01-Aug-2022 18:24:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[01-Aug-2022 18:24:07 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[01-Aug-2022 18:24:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[01-Aug-2022 18:24:07 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[01-Aug-2022 18:24:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[01-Aug-2022 22:05:01 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[01-Aug-2022 22:05:01 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[01-Aug-2022 22:05:01 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[01-Aug-2022 22:05:01 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[01-Aug-2022 22:05:01 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[01-Aug-2022 22:05:01 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[01-Aug-2022 22:05:01 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Undefined array key "id" in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 6
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 46
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 50
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 65
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 90
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[01-Aug-2022 22:19:41 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Undefined array key "id" in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 6
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 46
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 50
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 65
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 90
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[01-Aug-2022 22:21:07 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[01-Aug-2022 23:08:15 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[01-Aug-2022 23:08:15 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[01-Aug-2022 23:08:15 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[01-Aug-2022 23:08:15 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[01-Aug-2022 23:08:15 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[01-Aug-2022 23:08:15 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[01-Aug-2022 23:08:15 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 11:07:53 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 11:07:53 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 11:07:53 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 11:07:53 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 11:08:10 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 11:08:10 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 11:08:10 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 11:08:10 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 12:05:50 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/task.php on line 3
+[03-Aug-2022 12:18:36 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 12:18:36 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 12:18:36 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 12:18:36 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 12:24:27 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[03-Aug-2022 12:24:27 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 12:24:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 12:24:27 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 12:24:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 12:24:27 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 12:24:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 12:32:11 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 12:32:11 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 12:32:11 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 12:32:11 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 12:34:10 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/users_list.php on line 3
+[03-Aug-2022 12:34:11 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 12:34:11 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 12:34:11 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 12:34:11 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 12:34:20 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 12:34:20 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 12:34:20 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 12:34:20 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 13:20:32 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 13:20:32 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 13:20:32 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 13:20:32 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 13:20:33 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 13:20:33 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 13:20:33 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 13:20:33 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 14:26:12 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[03-Aug-2022 14:26:12 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 14:26:12 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 14:26:12 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 14:26:12 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 14:26:12 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 14:26:12 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 14:34:21 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[03-Aug-2022 14:34:21 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 14:34:21 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 14:34:21 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 14:34:21 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 14:34:21 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 14:34:21 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 15:54:00 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[03-Aug-2022 15:54:00 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 15:54:00 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[03-Aug-2022 15:54:00 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[03-Aug-2022 16:57:49 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[03-Aug-2022 16:57:49 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 16:57:49 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 16:57:49 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 16:57:49 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 16:57:49 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 16:57:49 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 19:27:48 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[03-Aug-2022 19:27:48 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 19:27:48 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 19:27:48 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 19:27:48 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 19:27:48 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 19:27:48 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 19:44:28 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[03-Aug-2022 19:44:28 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 19:44:28 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 19:44:28 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 19:44:28 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 19:44:28 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 19:44:28 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 19:44:32 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[03-Aug-2022 19:44:32 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 19:44:32 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[03-Aug-2022 19:44:32 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 19:44:32 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[03-Aug-2022 19:44:32 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[03-Aug-2022 19:44:32 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[04-Aug-2022 11:24:20 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 11:24:20 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 11:24:20 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 11:24:20 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 11:24:25 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 11:24:25 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 11:24:25 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 11:24:25 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 11:45:56 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[04-Aug-2022 11:45:56 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[04-Aug-2022 11:45:56 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[04-Aug-2022 11:45:56 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[04-Aug-2022 11:45:56 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[04-Aug-2022 11:45:56 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[04-Aug-2022 11:45:56 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[04-Aug-2022 11:45:57 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/users_list.php on line 3
+[04-Aug-2022 11:53:29 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[04-Aug-2022 11:53:29 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[04-Aug-2022 11:53:29 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[04-Aug-2022 11:53:29 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[04-Aug-2022 11:53:29 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[04-Aug-2022 11:53:29 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[04-Aug-2022 11:53:29 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[04-Aug-2022 12:48:02 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 12:48:02 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 12:48:02 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 12:48:02 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 12:48:10 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 12:48:10 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 12:48:10 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 12:48:10 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 12:48:11 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 12:48:11 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 12:48:11 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 12:48:11 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 12:48:13 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 12:48:13 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 12:48:13 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 12:48:13 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 12:49:10 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[04-Aug-2022 12:49:10 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[04-Aug-2022 12:49:10 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[04-Aug-2022 12:49:10 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[04-Aug-2022 12:49:10 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[04-Aug-2022 12:49:10 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[04-Aug-2022 12:49:10 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[04-Aug-2022 16:18:39 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 16:18:39 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 16:18:39 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 16:18:39 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 16:18:42 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 16:18:42 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 16:18:42 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 16:18:42 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 16:30:47 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 16:30:47 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 16:30:47 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 16:30:47 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 16:30:57 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[04-Aug-2022 16:30:57 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 16:30:57 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[04-Aug-2022 16:30:57 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[04-Aug-2022 21:17:29 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[04-Aug-2022 21:17:29 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[04-Aug-2022 21:17:29 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[04-Aug-2022 21:17:29 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[04-Aug-2022 21:17:29 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[04-Aug-2022 21:17:29 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[04-Aug-2022 21:17:29 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[05-Aug-2022 05:22:09 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[05-Aug-2022 05:22:09 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[05-Aug-2022 05:22:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[05-Aug-2022 05:22:09 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[05-Aug-2022 05:22:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[05-Aug-2022 05:22:09 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[05-Aug-2022 05:22:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[05-Aug-2022 10:32:17 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[05-Aug-2022 10:32:17 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[05-Aug-2022 10:32:17 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[05-Aug-2022 10:32:17 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[05-Aug-2022 10:32:17 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[05-Aug-2022 10:32:17 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[05-Aug-2022 10:32:17 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[05-Aug-2022 11:24:33 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/users_list.php on line 3
+[05-Aug-2022 16:52:08 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[05-Aug-2022 16:52:08 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[05-Aug-2022 16:52:08 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[05-Aug-2022 16:52:08 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[05-Aug-2022 16:52:08 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[05-Aug-2022 16:52:08 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[05-Aug-2022 16:52:08 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[09-Aug-2022 20:44:57 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[09-Aug-2022 20:44:57 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[09-Aug-2022 20:44:57 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[09-Aug-2022 20:44:57 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[15-Aug-2022 12:36:09 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[15-Aug-2022 12:36:09 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[15-Aug-2022 12:36:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[15-Aug-2022 12:36:09 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[15-Aug-2022 12:36:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[15-Aug-2022 12:36:09 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[15-Aug-2022 12:36:09 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Undefined array key "id" in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 6
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 46
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 50
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 65
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 90
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[15-Aug-2022 12:46:59 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Undefined array key "id" in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 6
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 46
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 50
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 55
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 65
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 73
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 90
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[15-Aug-2022 12:47:27 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/edit_emp.php on line 99
+[15-Aug-2022 15:35:52 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[15-Aug-2022 15:35:52 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[15-Aug-2022 15:35:52 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[15-Aug-2022 15:35:52 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[15-Aug-2022 15:35:56 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[15-Aug-2022 15:35:56 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[15-Aug-2022 15:35:56 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[15-Aug-2022 15:35:56 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[16-Aug-2022 16:22:16 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[16-Aug-2022 16:22:16 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[16-Aug-2022 16:22:16 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[16-Aug-2022 16:22:16 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[16-Aug-2022 20:52:00 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[16-Aug-2022 20:52:00 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[16-Aug-2022 20:52:00 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[16-Aug-2022 20:52:00 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[16-Aug-2022 21:55:02 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[16-Aug-2022 21:55:02 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[16-Aug-2022 21:55:02 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[16-Aug-2022 21:55:02 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[16-Aug-2022 22:19:18 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 3
+[16-Aug-2022 22:19:18 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[16-Aug-2022 22:19:18 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 10
+[16-Aug-2022 22:19:18 Asia/Karachi] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php:12
+Stack trace:
+#0 /home/ajkedtk/public_html/employee/dashboard/emp_profile.php(12): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ajkedtk/public_html/employee/dashboard/emp_profile.php on line 12
+[17-Aug-2022 16:01:14 Asia/Karachi] PHP Warning:  Undefined variable $role in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 3
+[17-Aug-2022 16:01:14 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[17-Aug-2022 16:01:14 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 14
+[17-Aug-2022 16:01:14 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[17-Aug-2022 16:01:14 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 15
+[17-Aug-2022 16:01:14 Asia/Karachi] PHP Warning:  Undefined variable $userdata in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
+[17-Aug-2022 16:01:14 Asia/Karachi] PHP Warning:  Trying to access array offset on value of type null in /home/ajkedtk/public_html/employee/dashboard/admin_profile.php on line 16
